@@ -1,3 +1,14 @@
+# Reaclock
+
+A (very) simple Alarm clock built using React, React-Redux, and Typesafe Actions.
+
+You can
+
+- Pick an alarm time
+- Set the alarm
+- Disable the alarm
+- See a pulsing red screen when the alarm is ringing
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
