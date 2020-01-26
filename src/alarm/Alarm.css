@@ -1,0 +1,23 @@
+#alarm {
+  min-height: 40vh;
+}
+
+.ringing {
+  background-color: red;
+  animation-name: color;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+.not-ringing {
+  background-color: lightgreen;
+}
+
+@keyframes color {
+  0% {
+    background-color: white;
+  }
+  100% {
+    background-color: red;
+  }
+}
